@@ -151,3 +151,25 @@ p {
   padding-right: 10px;
   line-height: 1.5;
 }
+.Research-Paragraph-Container {
+  font-family: 'Georgia', serif;
+  font-size: 20px;
+  text-align: center;
+  color: #13294b;
+  background-color: #b7d7ed;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  justify-content: center;
+  border: #13294b solid 5px;
+  border-radius: 20px;
+
+.Research-Paragraph {
+  font-family: 'Georgia', serif;
+  font-size: 25px;
+  justify-content: center;
+  color: #13294b;
+  padding-left: 35px;
+  padding-right: 35px;
+  line-height: 1.5;
+}
