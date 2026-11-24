@@ -100,7 +100,7 @@ h2{
   display: block;
 }
 .profile-card + .profile-card {
-  margin-top: 120px;
+  margin-top: 121px;
 }
 p {
   font-family:'Georgia', serif; /* Sets the font family for paragraphs */
