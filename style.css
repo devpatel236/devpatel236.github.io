@@ -73,7 +73,7 @@ h2{
 
 .right-column {
   flex-shrink: 0;
-  width: 440px;              /* controls the card AND the new image's width */
+  width: 440px;      /* controls the card AND the new image's width */
 }
 
 .profile-card {
@@ -100,17 +100,17 @@ h2{
   display: block;
 }
 .profile-card + .profile-card {
-  margin-top: 50px;
+  margin-top: 120px;
 }
 p {
   font-family:'Georgia', serif; /* Sets the font family for paragraphs */
-  font-size:17.4px;
+  font-size:17.3px;
   /* Controls spacing between paragraphs */
   margin-bottom: 20px;
   color:#13294b;
   
   /* Improves readability by adjusting space between text lines */
-  line-height: 1.65;
+  line-height: 1.67;
   
   /* Sets the alignment (left, right, center, or justify) */
   text-align: justify;
